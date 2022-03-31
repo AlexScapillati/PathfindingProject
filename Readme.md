@@ -1,7 +1,7 @@
 # Pathfinding Project
 ### Submitted as second year assigment at University of central Lancashire
 
-[![Youtube](https://img.youtube.com/vi/https://youtu.be/i02Hvj537XI/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/i02Hvj537XI)
+[![Youtube](https://img.youtube.com/vi/i02Hvj537XI/0.jpg)](https://www.youtube.com/watch?v=i02Hvj537XI)
 
 ### Usage
 - Select the algorithm and the map with arrows.
