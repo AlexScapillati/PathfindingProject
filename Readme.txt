@@ -1,17 +1,10 @@
-===============================================================================
-           TL-Wizard : "Assignment" Project Overview
-===============================================================================
+#Pathfinding Project
+## Submitted as second year assigment at University of central Lancashire
 
-This project has been created for you as a starting point for your program.
-It uses the TL-Engine to provide a simple interface to a 3D engine.
+https://youtu.be/i02Hvj537XI
 
-Summary of the files in the project:
 
-ReadMe.txt
-	The file you are reading now.
-	
-Assignment.cpp
-    This is the main program file. It already has the basic program code to
-    initialise a 3D engine. You need to add extra code to load and position the
-    objects in your scene, and to set up a camera. You can also add code to 
-    move, animate and control the objects and camera.
+# How to
+- Download and Install Tl-Engine [Here](https://www.mantasbuzelis.dev/resources/tl_engine/downloads.html)
+- Install DirectX SDK [Here](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+- Run and build Assigment.sln
