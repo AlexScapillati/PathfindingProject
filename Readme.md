@@ -1,4 +1,4 @@
-#Pathfinding Project
+# Pathfinding Project
 ## Submitted as second year assigment at University of central Lancashire
 
 https://youtu.be/i02Hvj537XI
